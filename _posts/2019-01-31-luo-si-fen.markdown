@@ -6,7 +6,7 @@ categories: 无分类
 ---
 
 
-![螺蛳粉](_pic/lsf.jpeg)
+![螺蛳粉](https://github.com/boboboddd/boboboddd.github.io/blob/master/_posts/_pic/lsf.jpeg)
 
 酸笋
 
